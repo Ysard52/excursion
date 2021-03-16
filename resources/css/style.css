@@ -1,0 +1,41 @@
+.top-header {
+    font-family: verdana;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-weight: normal;
+}
+
+.header-link {
+    color: aquamarine;
+    font-size: 20px;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.second-header {
+    font-weight: 300;
+    font-family: verdana;
+    font-size: 42px;
+    color: white;
+}
+
+.text {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.phone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right {
+    text-align: right;
+}
+
